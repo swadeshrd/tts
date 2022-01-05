@@ -4,8 +4,8 @@ How to use the tts(text to speech class)
 * maximum 100 character allowed
 * As per bellow example can use the package ::
 
-    import tts
+     import tts
 
-    print(tts.__version__)
-    print(tts.__author__)
-    tts.change_tts("Hello ! i am a bot. how may i help!")
+     print(tts.__version__) \
+     print(tts.__author__)\
+     tts.change_tts("Hello ! i am a bot. how may i help!")
