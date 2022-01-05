@@ -1,6 +1,8 @@
 How to use the tts(text to speech class)
 ========================================
-* Package Details: https://test.pypi.org/project/text-to-speech/0.1.0/
+* Package Details: 
+     * https://pypi.org/project/TTSUG/0.1.0/
+     * https://test.pypi.org/project/text-to-speech/0.1.0/
 * TTSUG is used to convert the text to speech
 * maximum 100 character allowed
 * As per bellow example can use the package ::
